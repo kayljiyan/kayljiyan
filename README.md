@@ -8,7 +8,7 @@ const aboutMe = {
    code: [HTML, CSS, Python, Java, CSharp, Dart],
    technologies: {
       frontEnd: {
-         js: ["Svelte"],
+         js: ["Svelte", "Blazor"],
          css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
