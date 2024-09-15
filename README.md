@@ -5,21 +5,21 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Python, Java, CSharp, Dart],
+   code: [HTML, CSS, Python, Javascript, CSharp, Dart],
    technologies: {
       frontEnd: {
-         js: ["Svelte"]
-         csharp: ["Blazor"],
+         js: ["Svelte", "ReactJS", "Next.js"],
+         csharp: ["Blazor WASM"],
          css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
          csharp: ["Asp.net Core"],
          python: ["FastAPI", "Flask", "Django"],
       },
-      databases: ["MongoDB", "mySQL", "PostgreSQL", "SQLite],
-      mobile: ["Flutter"]
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite],
+      mobile: ["Flutter", "Kivy"]
    },
-   currentOccupation: ["A 3rd year Information Technology student"],
+   currentOccupation: ["A 4th year Information Technology student"],
    challenge: "I'm working towards learning more things",
 };
 ```
