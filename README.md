@@ -1,25 +1,24 @@
-<p><em>A bachelor student at <a href="https://umindanao.edu.ph/">University of Mindanao</a>, majoring in Information Technology.</br>
+<p><em>An IT graduate and IT instructor at <a href="https://umindanao.edu.ph/">University of Mindanao</a>.</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Python, Javascript, CSharp, Dart],
+   code: [HTML, CSS, Python, Javascript, CSharp],
    technologies: {
       frontEnd: {
-         js: ["Svelte", "ReactJS", "Next.js"],
+         js: ["SvelteKit", "Next.js"],
          csharp: ["Blazor WASM"],
          css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
-         csharp: ["Asp.net Core"],
+         csharp: ["ASP.NET Core"],
          python: ["FastAPI", "Flask", "Django"],
       },
-      databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite],
-      mobile: ["Flutter", "Kivy"]
+      databases: ["MongoDB", "SQL Server", "PostgreSQL", "SQLite"]
    },
-   currentOccupation: ["A 4th year Information Technology student"],
-   challenge: "I'm working towards learning more things",
+   currentOccupation: ["An IT instructor at University of Mindanao"],
+   challenge: "I'm working towards managing my life better.",
 };
 ```
